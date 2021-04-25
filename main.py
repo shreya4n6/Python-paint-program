@@ -1,14 +1,4 @@
-# DRAWING PROGRAM BY TIM
-# main.py file (RUN THIS)
-# Description: This program draws a grid of 600, 600 with a given
-# pixel size/rows and cols. The user can then interact with the grid
-# using a variety of tools from the menu bar on the bottom. They can draw
-# by selecting a color from the pallet and clicking the "D" button. This program
-# also offers a save feature where a user can save their work to a selected directory.
-# It can then be opened by selecting the file from the file nav within the program.
-#
-#Input: Input is taken at the beginning of the program for the pixel size/rows and cols.
-# It is also taken whenever the user clicks.
+
 
 try:
    import pygame
